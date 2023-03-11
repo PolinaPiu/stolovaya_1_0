@@ -1,0 +1,5 @@
+CREATE TABLE "Days" (
+	"id"	INTEGER UNIQUE,
+	"name"	TEXT,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
