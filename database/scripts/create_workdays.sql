@@ -1,0 +1,5 @@
+CREATE TABLE "Workdays" (
+	"id"	INTEGER,
+	"date"	TEXT,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
